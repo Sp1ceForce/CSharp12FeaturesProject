@@ -1,0 +1,14 @@
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.AssemblyInfoInputs.cache
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.AssemblyInfo.cs
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.csproj.CoreCompileInputs.cache
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\bin\Debug\net8.0\ExperimentalAtribute.exe
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\bin\Debug\net8.0\ExperimentalAtribute.deps.json
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\bin\Debug\net8.0\ExperimentalAtribute.runtimeconfig.json
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\bin\Debug\net8.0\ExperimentalAtribute.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\bin\Debug\net8.0\ExperimentalAtribute.pdb
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\refint\ExperimentalAtribute.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.pdb
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ExperimentalAtribute.genruntimeconfig.cache
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\ExperimentalAtribute\obj\Debug\net8.0\ref\ExperimentalAtribute.dll

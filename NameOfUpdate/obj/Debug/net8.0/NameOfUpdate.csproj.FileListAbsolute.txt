@@ -1,0 +1,11 @@
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\bin\Debug\net8.0\NameOfUpdate.deps.json
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\bin\Debug\net8.0\NameOfUpdate.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\bin\Debug\net8.0\NameOfUpdate.pdb
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.AssemblyInfoInputs.cache
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.AssemblyInfo.cs
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.csproj.CoreCompileInputs.cache
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\refint\NameOfUpdate.dll
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\NameOfUpdate.pdb
+C:\Users\koron\RiderProjects\CSharp12FeaturesApp\NameOfUpdate\obj\Debug\net8.0\ref\NameOfUpdate.dll
